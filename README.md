@@ -1,4 +1,4 @@
-# Encryption-Algorithms
+# Encryption Algorithms
 - These scrips will enble you to make secure file transfer via lan use RSA encription on AES keys.
 The file is encripted using AES.
 # Instructions
