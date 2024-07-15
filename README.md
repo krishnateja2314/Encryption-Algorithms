@@ -8,3 +8,4 @@ The file is encripted using AES.
 # Note
 - IP address of both the scripts should be of the reciver.
 - It would be better to try it on a localhost.
+- Server file should be running first.
