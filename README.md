@@ -7,3 +7,4 @@ The file is encripted using AES.
 - To run the client script: `python3 client.py` <br />
 # Note
 - IP address of both the scripts should be of the reciver.
+- It would be better to try it on a localhost.
